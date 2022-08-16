@@ -1,5 +1,6 @@
 # Olá 👋 <br> Me chamo Arthur Bertoti
 
+- 🙂 Tenho 18 anos
 - 📌 Campo Bom, RS
 - 🖥️ Atualmente estou cursando o 3º de Informática do IFSul Sapiranga
 - 🚀 Estou fazendo o curso 3035 TEACH pela empresa [3035Tech💜](https://www.linkedin.com/company/3035-tech/)
