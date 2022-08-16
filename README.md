@@ -16,7 +16,7 @@
 - [Instagram](https://www.instagram.com/arthur_bertoti/)
 
 ## Extra:
-- 🤾‍♂️ Amo praticar esportes. Atualmente jogo handebol pela [AECB FEEVALE](https://www.instagram.com/handebol.campobom/).
+- 🤾‍ Atualmente jogo handebol pela [AECB FEEVALE](https://www.instagram.com/handebol.campobom/).
 <!--
 
 
