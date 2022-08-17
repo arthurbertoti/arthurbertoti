@@ -1,10 +1,10 @@
 # Olá 👋 <br> Me chamo Arthur Bertoti
 
-- 🙂 Tenho 18 anos
-- 📌 Moro em Campo Bom, Rio Grande do Sul
-- 🖥️ Atualmente estou cursando o 3º de Informática do [IFSul Sapiranga](https://www.instagram.com/ifsulsapiranga/)
-- 🚀 Estou fazendo o curso 3035 TEACH pela empresa [3035Tech💜](https://www.linkedin.com/company/3035-tech/)
-- 📚 Estudo inglês na [Mil Idiomas](https://www.instagram.com/milidiomas/)
+- 🙂 18 anos
+- 📌 Campo Bom, RS
+- 🖥️ 3/4 - Técnico em Informátca - [IFSul Sapiranga](https://www.instagram.com/ifsulsapiranga/)
+- 🚀 Cursando 3035 TEACH - [3035Tech💜](https://www.linkedin.com/company/3035-tech/)
+- 📚 English - [Mil Idiomas](https://www.instagram.com/milidiomas/)
 
 ## Estou aprendendo:
 - HTML e CSS
@@ -17,7 +17,7 @@
 - [Instagram](https://www.instagram.com/arthur_bertoti/)
 
 ## Extra:
-- 🤾‍ Atualmente jogo handebol pela [AECB FEEVALE](https://www.instagram.com/handebol.campobom/)
+- 🤾‍ Jogo handebol pela [AECB FEEVALE](https://www.instagram.com/handebol.campobom/)
 <!--
 
 
