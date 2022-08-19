@@ -8,16 +8,13 @@
 - 🚀 Cursando 3035 TEACH - [3035Tech💜](https://www.linkedin.com/company/3035-tech/)
 - 📚 English - [Mil Idiomas](https://www.instagram.com/milidiomas/)
 
+## [Meu portfólio online](https://arthurbertoti.github.io/portfolio/)
+
 ## Estou aprendendo:
 - HTML e CSS
 - JavaScript
 - Bootstrap
 - TypeScript
-
-<!--
-## Meu portfólio online:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=github_dark&repo=MEUREPOSITORIOAQUI)](LINKDOREPOSITORIO)
--->
 
 ## Minha atividade:
 <div>
@@ -34,8 +31,6 @@
 ## Extra:
 - 🤾‍ Jogo handebol pela [AECB FEEVALE](https://www.instagram.com/handebol.campobom/)
 
-
-
 <hr>
 
 <!--PORTFOLIO EM INGLÊS-->
@@ -51,16 +46,14 @@
 - 🚀 Studying 3035 TEACH - [3035Tech💜](https://www.linkedin.com/company/3035-tech/)
 - 📚 English - [Mil Idiomas](https://www.instagram.com/milidiomas/)
 
-## I am learning:
+## [My online portfolio](https://arthurbertoti.github.io/portfolio/index-en.html)
+
+## I'm learning:
 - HTML e CSS
 - JavaScript
 - Bootstrap
 - TypeScript
 
-<!--
-## My online portfolio:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=github_dark&repo=MEUREPOSITORIOAQUI)](LINKDOREPOSITORIO)
--->
 ## My coding activity:
 <div>
   <a href="https://github.com/arthurbertoti">
