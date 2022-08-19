@@ -1,6 +1,5 @@
-<!--
-<a id='ingles' href='#portugues'>EMOJI EM INGLES (en)<a>
--->
+<a id='ingles' href='#portugues'><sup>EN</sup><a>
+
 # Olá 👋 <br> Me chamo Arthur Bertoti
 
 - 🙂 18 anos
@@ -35,13 +34,15 @@
 ## Extra:
 - 🤾‍ Jogo handebol pela [AECB FEEVALE](https://www.instagram.com/handebol.campobom/)
 
-<!--
 
 
-PERFIL EM INGLÊS 
+<hr>
+
+<!--PORTFOLIO EM INGLÊS-->
 
 
-<a id='portugues' href='#ingles'>🇧🇷<a>
+<a id='portugues' href='#ingles'><sup>PT</sup><a>
+
 # Hi there 👋 <br> I'm Arthur Bertoti
 
 - 🙂 18 yo
@@ -59,7 +60,7 @@ PERFIL EM INGLÊS
 <!--
 ## My online portfolio:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=github_dark&repo=MEUREPOSITORIOAQUI)](LINKDOREPOSITORIO)
-
+-->
 ## My coding activity:
 <div>
   <a href="https://github.com/arthurbertoti">
@@ -73,9 +74,8 @@ PERFIL EM INGLÊS
 - [Instagram](https://www.instagram.com/arthur_bertoti/)
 
 ## Extra:
-- 🤾‍ Jogo handebol pela [AECB FEEVALE](https://www.instagram.com/handebol.campobom/)
+- 🤾‍ I play handball for [AECB FEEVALE](https://www.instagram.com/handebol.campobom/)
 
--->
 
 <!--
 OUTRAS IDEIAS
