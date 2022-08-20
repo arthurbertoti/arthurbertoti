@@ -1,4 +1,4 @@
-<a id='ingles' href='#portugues'><sup>EN</sup><a>
+<a id='ingles' href='#portugues'><sup>ENGLISH</sup><a>
 
 # Olá 👋 <br> Me chamo Arthur Bertoti
 
@@ -36,7 +36,7 @@
 <!--PORTFOLIO EM INGLÊS-->
 
 
-<a id='portugues' href='#ingles'><sup>PT</sup><a>
+<a id='portugues' href='#ingles'><sup>PORTUGUÊS</sup><a>
 
 # Hi there 👋 <br> I'm Arthur Bertoti
 
