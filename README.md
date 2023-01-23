@@ -15,6 +15,8 @@
 - JavaScript
 - Bootstrap
 - TypeScript
+- Java
+- Springboot
 
 ## Minha atividade:
 <div>
@@ -53,6 +55,8 @@
 - JavaScript
 - Bootstrap
 - TypeScript
+- Java
+- Springboot
 
 ## My coding activity:
 <div>
