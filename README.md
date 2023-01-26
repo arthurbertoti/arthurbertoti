@@ -31,7 +31,7 @@
 - [Instagram](https://www.instagram.com/arthur_bertoti/)
 
 ## Extra:
-- 🤾‍ Jogo handebol pela [AECB FEEVALE](https://www.instagram.com/handebol.campobom/)
+- 🤾‍ Eu jogo handebol pela [AECB FEEVALE](https://www.instagram.com/handebol.campobom/)
 
 <hr>
 
