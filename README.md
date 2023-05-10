@@ -20,7 +20,6 @@
 - Springboot
   
 ## Estou estudando atualmente:
-- JavaScript
 - TypeScript
 - Reactjs
   
@@ -68,7 +67,6 @@
 - Springboot
   
 ## i'm actually studing:
-- JavaScript
 - TypeScript
 - Reactjs
 
