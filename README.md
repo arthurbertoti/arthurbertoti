@@ -35,9 +35,6 @@
 - [LinkedIn](https://www.linkedin.com/in/arthurbertoti/)
 - [Instagram](https://www.instagram.com/arthur_bertoti/)
 
-## Extra:
-- 🤾‍ Eu jogo handebol pela [AECB FEEVALE](https://www.instagram.com/handebol.campobom/)
-
 <hr>
 
   
@@ -81,9 +78,6 @@
 ## My social networks:
 - [LinkedIn](https://www.linkedin.com/in/arthurbertoti/)
 - [Instagram](https://www.instagram.com/arthur_bertoti/)
-
-## Extra:
-- 🤾‍ I play handball for [AECB FEEVALE](https://www.instagram.com/handebol.campobom/)
 
 
 <!--
