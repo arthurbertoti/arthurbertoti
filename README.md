@@ -1,27 +1,32 @@
-<a id='ingles' href='#portugues'><sup>ENGLISH</sup><a>
+<a id='portugues' href='#ingles'><sup>ENGLISH</sup><a>
 
 # Olá 👋 <br> Me chamo Arthur Bertoti
 
-- 🙂 20 anos
-- 📌 [Campo Bom](https://www.google.com/maps/place/Campo+Bom,+RS/@-29.6760875,-51.0495443,13z/data=!3m1!4b1!4m5!3m4!1s0x9519404def9b59b5:0xce6eb6fcdd2d22b5!8m2!3d-29.6747831!4d-51.0613111), RS
-- 🖥️ 4/4 - Técnico em Informátca - [IFSul Sapiranga](https://www.instagram.com/ifsulsapiranga/)
-- 🚀 Estagiando na [3035Tech💜](https://www.linkedin.com/company/3035-tech/)
+- 🙂 nascido em 2003
+- 📌 [Campo Bom](https://www.google.com/maps/place/Campo+Bom,+RS/@-29.6760875,-51.0495443,13z/data=!3m1!4b1!4m5!3m4!1s0x9519404def9b59b5:0xce6eb6fcdd2d22b5!8m2!3d-29.6747831!4d-51.0613111), RS. Brasil
+- 🎓 Técnico em Informátca - [IFSul Sapiranga](https://www.instagram.com/ifsulsapiranga/)
+- 🖥️ Estagiando na [3035Tech💜](https://www.linkedin.com/company/3035-tech/)
 - 📚 Estudando inglês na [Mil Idiomas](https://www.instagram.com/milidiomas/)
+
+## Atualmente trabalhando com:
+- Reactjs
+- TypeScript
 
 ## [Meu portfólio online](https://arthurbertoti.github.io/portfolio/)
 
-## Fiz cursos de:
+## Já estudei:
 - HTML e CSS
 - JavaScript
 - TypeScript
-- Bootstrap
 - Reactjs
+- Bootstrap
+- Tailwind
+- Styled Components
 - Java
 - Springboot
   
 ## Estou estudando atualmente:
-- TypeScript
-- Reactjs
+- React Native
   
 ## Minha atividade:
 <div>
@@ -42,15 +47,19 @@
 <!--PORTFOLIO EM INGLÊS-->
 
 
-<a id='portugues' href='#ingles'><sup>PORTUGUÊS</sup><a>
+<a id='ingles' href='#portugues'><sup>PORTUGUÊS</sup><a>
 
 # Hi there 👋 <br> I'm Arthur Bertoti
 
-- 🙂 19 yo
-- 📌 [Campo Bom](https://www.google.com/maps/place/Campo+Bom,+RS/@-29.6760875,-51.0495443,13z/data=!3m1!4b1!4m5!3m4!1s0x9519404def9b59b5:0xce6eb6fcdd2d22b5!8m2!3d-29.6747831!4d-51.0613111), RS
-- 🖥️ 4/4 - IT - [IFSul Sapiranga](https://www.instagram.com/ifsulsapiranga/)
-- 🚀 I'm interning at the [3035Tech💜](https://www.linkedin.com/company/3035-tech/)
+- 🙂 born in 2003
+- 📌 [Campo Bom](https://www.google.com/maps/place/Campo+Bom,+RS/@-29.6760875,-51.0495443,13z/data=!3m1!4b1!4m5!3m4!1s0x9519404def9b59b5:0xce6eb6fcdd2d22b5!8m2!3d-29.6747831!4d-51.0613111), RS. Brazil
+- 🎓 IT - [IFSul Sapiranga](https://www.instagram.com/ifsulsapiranga/)
+- 🖥️ I'm interning at the [3035Tech💜](https://www.linkedin.com/company/3035-tech/)
 - 📚 I'm studyng English at [Mil Idiomas](https://www.instagram.com/milidiomas/)
+
+## Actually working with:
+- TypeScript
+- Reactjs
 
 ## [My online portfolio](https://arthurbertoti.github.io/portfolio/index-en.html)
 
@@ -58,14 +67,15 @@
 - HTML e CSS
 - JavaScript
 - TypeScript
-- Bootstrap
 - Reactjs
+- Bootstrap
+- Tailwind
+- Styled Components
 - Java
 - Springboot
   
 ## i'm actually studing:
-- TypeScript
-- Reactjs
+- React Native
 
 ## My coding activity:
 <div>
