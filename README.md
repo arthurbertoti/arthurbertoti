@@ -4,15 +4,22 @@
 
 - 🙂 nascido em 2003
 - 📌 [Campo Bom](https://www.google.com/maps/place/Campo+Bom,+RS/@-29.6760875,-51.0495443,13z/data=!3m1!4b1!4m5!3m4!1s0x9519404def9b59b5:0xce6eb6fcdd2d22b5!8m2!3d-29.6747831!4d-51.0613111), RS. Brasil
+- 📖 Cursando Análise e Desenvolvimento de Sistemas (2026/2) - [UNINTER](https://www.uninter.com/)
 - 🎓 Técnico em Informátca - [IFSul Sapiranga](https://www.instagram.com/ifsulsapiranga/)
 - 🖥️ Estagiando na [3035Tech💜](https://www.linkedin.com/company/3035-tech/)
 - 📚 Formado em curso de inglês na [Mil Idiomas](https://www.instagram.com/milidiomas/)
 
 ## Atualmente trabalhando com:
-- Reactjs
+- ReactJs
+- React Native
 - TypeScript
+- TailwindCSS
+- Styled-Components
 
 ## [Meu portfólio online](https://arthurbertoti.github.io/portfolio/)
+
+## Estou estudando atualmente:
+- React Native
 
 ## Já estudei:
 - HTML e CSS
@@ -24,9 +31,6 @@
 - Styled Components
 - Java
 - Springboot
-  
-## Estou estudando atualmente:
-- React Native
   
 ## Minha atividade:
 <div>
@@ -53,15 +57,22 @@
 
 - 🙂 born in 2003
 - 📌 [Campo Bom](https://www.google.com/maps/place/Campo+Bom,+RS/@-29.6760875,-51.0495443,13z/data=!3m1!4b1!4m5!3m4!1s0x9519404def9b59b5:0xce6eb6fcdd2d22b5!8m2!3d-29.6747831!4d-51.0613111), RS. Brazil
+- 📖 Systems Analysis and Development (2026/2) - [UNINTER](https://www.uninter.com/)
 - 🎓 IT - [IFSul Sapiranga](https://www.instagram.com/ifsulsapiranga/)
 - 🖥️ I'm interning at the [3035Tech💜](https://www.linkedin.com/company/3035-tech/)
 - 📚 I studied English at [Mil Idiomas](https://www.instagram.com/milidiomas/)
 
 ## Actually working with:
+- ReactJs
+- React Native
 - TypeScript
-- Reactjs
+- TailwindCSS
+- Styled-Components
 
 ## [My online portfolio](https://arthurbertoti.github.io/portfolio/index-en.html)
+
+## i'm actually studing:
+- React Native
 
 ## I've already studied:
 - HTML e CSS
@@ -73,9 +84,6 @@
 - Styled Components
 - Java
 - Springboot
-  
-## i'm actually studing:
-- React Native
 
 ## My coding activity:
 <div>
