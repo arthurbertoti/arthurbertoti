@@ -2,6 +2,13 @@
 
 # Olá 👋 <br> Me chamo Arthur Bertoti
 
+<div>
+    <img width=100% src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hello+my+name+is+Arthur+Bertoti;I'm+21+years+old;I'm+from+Brazil;I'm+a+Front+End+and+Mobile+Developer;Welcome+to+my+profile!" alt="Typing SVG">
+</div>
+<div>
+    <img width=100% src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Olá+meu+nome+é+Arthur+Bertoti;Tenho+21+anos;Sou+Braasileiro;Sou+desenvolvedeor+Front+End+e+Mobile;Bem-vindo+ao+meu+perfil!" alt="Typing SVG">
+</div>
+
 - 🙂 nascido em 2003
 - 📌 [Campo Bom](https://www.google.com/maps/place/Campo+Bom,+RS/@-29.6760875,-51.0495443,13z/data=!3m1!4b1!4m5!3m4!1s0x9519404def9b59b5:0xce6eb6fcdd2d22b5!8m2!3d-29.6747831!4d-51.0613111), RS. Brasil
 - 📖 Cursando Análise e Desenvolvimento de Sistemas (2026/2) - [UNINTER](https://www.uninter.com/)
@@ -53,7 +60,9 @@
 
 <a id='ingles' href='#portugues'><sup>PORTUGUÊS</sup><a>
 
-# Hi there 👋 <br> I'm Arthur Bertoti
+<div>
+    <img width=100% src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hello+my+name+is+Arthur+Bertoti;I'm+21+years+old;I'm+from+Brazil;I'm+a+Front+End+and+Mobile+Developer;Welcome+to+my+profile!" alt="Typing SVG">
+</div>
 
 - 🙂 born in 2003
 - 📌 [Campo Bom](https://www.google.com/maps/place/Campo+Bom,+RS/@-29.6760875,-51.0495443,13z/data=!3m1!4b1!4m5!3m4!1s0x9519404def9b59b5:0xce6eb6fcdd2d22b5!8m2!3d-29.6747831!4d-51.0613111), RS. Brazil
