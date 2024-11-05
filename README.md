@@ -1,10 +1,5 @@
 <a id='portugues' href='#ingles'><sup>ENGLISH</sup><a>
 
-# Olá 👋 <br> Me chamo Arthur Bertoti
-
-<div>
-    <img width=100% src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hello+my+name+is+Arthur+Bertoti;I'm+21+years+old;I'm+from+Brazil;I'm+a+Front+End+and+Mobile+Developer;Welcome+to+my+profile!" alt="Typing SVG">
-</div>
 <div>
     <img width=100% src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Olá+meu+nome+é+Arthur+Bertoti;Tenho+21+anos;Sou+Braasileiro;Sou+desenvolvedeor+Front+End+e+Mobile;Bem-vindo+ao+meu+perfil!" alt="Typing SVG">
 </div>
