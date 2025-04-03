@@ -1,7 +1,7 @@
 ### <a id='portugues' href='#ingles'><sup>ENGLISH VERSION</sup><a>
 
 <div>
-    <img width=100% src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Olá+meu+nome+é+Arthur+Bertoti;Tenho+21+anos;Sou+Brasileiro;Sou+dev+Front+End+e+Mobile;Bem-vindo+ao+meu+perfil!" alt="Typing SVG">
+    <img width=100% src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Olá+meu+nome+é+Arthur+Bertoti;Tenho+21+anos;Sou+dev+Front+End+e+Mobile;Bem-vindo+ao+meu+perfil!" alt="Typing SVG">
 </div>
 
 <div align="center"> 
@@ -19,7 +19,7 @@
 - 📌 [Campo Bom](https://www.google.com/maps/place/Campo+Bom,+RS/@-29.6760875,-51.0495443,13z/data=!3m1!4b1!4m5!3m4!1s0x9519404def9b59b5:0xce6eb6fcdd2d22b5!8m2!3d-29.6747831!4d-51.0613111), RS. Brasil
 - 📖 Cursando Análise e Desenvolvimento de Sistemas (2026/2) - [UNINTER](https://www.uninter.com/)
 - 🎓 Técnico em Informátca - [IFSul Sapiranga](https://www.instagram.com/ifsulsapiranga/)
-- 🖥️ Estagiando na [3035Tech💜](https://www.linkedin.com/company/3035-tech/)
+- 🖥️ Trabalho na [3035Tech💜](https://www.linkedin.com/company/3035-tech/)
 - 📚 Formado em curso de inglês na [Mil Idiomas](https://www.instagram.com/milidiomas/)
 
 ## Atualmente trabalhando com:
@@ -27,7 +27,6 @@
 - React Native
 - TypeScript
 - TailwindCSS
-- Styled-Components
 
 ## [Meu portfólio online](https://arthurbertoti.github.io/portfolio/)
 
@@ -81,7 +80,7 @@
 - 📌 [Campo Bom](https://www.google.com/maps/place/Campo+Bom,+RS/@-29.6760875,-51.0495443,13z/data=!3m1!4b1!4m5!3m4!1s0x9519404def9b59b5:0xce6eb6fcdd2d22b5!8m2!3d-29.6747831!4d-51.0613111), RS. Brazil
 - 📖 Systems Analysis and Development (2026/2) - [UNINTER](https://www.uninter.com/)
 - 🎓 IT - [IFSul Sapiranga](https://www.instagram.com/ifsulsapiranga/)
-- 🖥️ I'm interning at the [3035Tech💜](https://www.linkedin.com/company/3035-tech/)
+- 🖥️ I'm working at the [3035Tech💜](https://www.linkedin.com/company/3035-tech/)
 - 📚 I studied English at [Mil Idiomas](https://www.instagram.com/milidiomas/)
 
 ## Actually working with:
@@ -89,7 +88,6 @@
 - React Native
 - TypeScript
 - TailwindCSS
-- Styled-Components
 
 ## [My online portfolio](https://arthurbertoti.github.io/portfolio/index-en.html)
 
