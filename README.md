@@ -10,9 +10,9 @@ LinkedIn
 -  🇧🇷 I'm a software engineer from Brazil.
 - 🌎 I do speak english and portuguese.
 - 📖 Systems Analysis and Development (2026/2) - [UNINTER](https://www.uninter.com/)
-- 🎓 IT - [IFSul Sapiranga](https://www.instagram.com/ifsulsapiranga/)
+- 🎓 Graduated in Information Technology (IT) Technician - [IFSul Sapiranga](https://www.instagram.com/ifsulsapiranga/)
 - 🖥️ I'm working at the [3035Tech](https://www.linkedin.com/company/3035-tech/)
-
+- 🚀 Driven by purpose and collaboration
 # 
 
 - 🖥  Writing code since 2020.
